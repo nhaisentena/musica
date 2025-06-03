@@ -1,16 +1,26 @@
-# player_musica
+# Reproductor de Música Flutter
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Esta aplicación es un reproductor de música desarrollado en Flutter que permite cargar y reproducir canciones desde una lista remota. Cuenta con una interfaz sencilla y moderna, que incluye funcionalidades para reproducir, pausar y detener canciones directamente desde la lista. Además, muestra una notificación persistente con controles multimedia para facilitar la experiencia del usuario.
 
-This project is a starting point for a Flutter application.
+### Funcionalidades principales:
+- Carga dinámica de canciones desde un JSON remoto.
+- Reproducción, pausa y detención de canciones.
+- Notificación persistente con controles multimedia (play/pause/stop).
+- Diseño atractivo con gradientes y tipografías estilizadas.
+- Manejo eficiente del estado de reproducción con actualización en tiempo real.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Integrantes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Nhai Sentena  
+- Gabriela Roque
+
+---
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.  
+Puedes ver el archivo LICENSE para más detalles.
